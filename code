@@ -22,4 +22,12 @@
   "Toggle2Replace": "1A 00 00 80 1A 00 00 00 00 04 00 00 00 00 00 80 3F 00 00 20 41 00 00 34 42 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 80 3F",
   
   "Toggle7Search": "90 C1 00 00 70 41 01 00 00 00 00 00 C0 3F 00 00 00 3F 00 00 80 3F"
+
+
+  "Status": "true",
+  "AppTitle": "MANI 272 PRO",
+  "ServerMessage": "Update Done!",
+  ...
+
+
 }
